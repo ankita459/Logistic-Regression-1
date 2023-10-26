@@ -1,1 +1,1 @@
-# Logistic-Regression-1
+This dataset originates from the National Institute of Diabetes and Digestive and Kidney Diseases. Its aim is to predict whether a patient has diabetes based on specific diagnostic measurements. The dataset only includes females of Pima Indian heritage who are at least 21 years old. These instances were selected from a larger database with specific constraints.
